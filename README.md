@@ -118,7 +118,8 @@ prueba-tecnica/
 ```
 
 ## API Endpoints
-
+en el .env colocar la url con el puerto donde este comunicandose el backend, por defecto el puerto 8000
+Ejemplo:
 Base URL: `http://localhost:8000/api/`
 
 ### Productos
